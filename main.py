@@ -49,8 +49,6 @@ y_grid = np.arange(northingbounds[0], northingbounds[1], resolution)
 
 "Grid-search algorithm"
 
-# RTM for event @ 2023-10-20T21:02:10 to 2023-10-20T21:02:15
-
 c = 440 # m/s
 
 window_dt = 5
